@@ -2,7 +2,7 @@
 
 Pandas was used to get some meaningul insights from terrorismData.csv.
 
-All the problem statements answered are shown below
+All the problem statements shown below are answered
 
 - Problem Statement 1: The Most Dangerous city in Jammu and Kashmir and the terrorist group which is most active in that city? Print count of number of attacks in that city as integer value. Note:Ignoring the Unknown Terrorist Group. Here Dangerous related with the number of terrorist attacks.
 - Problem Statement 2: There was formation of new government in India on 26 May 2014. So current government's span is from 26th May 2014 to current. Find out two things from this period
